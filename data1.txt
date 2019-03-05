@@ -1,0 +1,17 @@
+ZhangQia	0001	0 
+LiuHui	0002	2 
+KeLei	0003	4
+WangPin	0004	1
+LiFang	0005	3
+LiuQiang	0006	2
+ZhangYu	0007	1
+WangTao	0008	4
+Zhangao	0009	0 
+LiuHu	0010	2 
+KeLe	0011	4
+WangPin	0012	1
+LiFu	0013	3
+LiuQi	0014	2
+ZhangYi	0015	1
+Ksjdnjwd	0018	2
+Andw	0007	0
